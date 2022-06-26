@@ -1,4 +1,5 @@
 from b import B
 
 class A:
-    pass
+    def __init__(self):
+        pass
