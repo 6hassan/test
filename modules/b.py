@@ -1,4 +1,4 @@
-from f import total
+from a import total
 
 def test_total()->None:
     assert total([1.0]) == 1.0
