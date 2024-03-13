@@ -12,9 +12,6 @@ abc
 =======
 123
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 3e6ea38 (Added 123 twice)
-=======
 >>>>>>> parent of 3e6ea38 (Added 123 twice)
 =======
 >>>>>>> parent of 3e6ea38 (Added 123 twice)
