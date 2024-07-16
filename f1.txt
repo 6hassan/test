@@ -8,10 +8,8 @@
 888
 555
 abc
-<<<<<<< HEAD
-=======
 123
-<<<<<<< HEAD
->>>>>>> parent of 3e6ea38 (Added 123 twice)
-=======
->>>>>>> parent of 3e6ea38 (Added 123 twice)
+456
+789
+11
+12
